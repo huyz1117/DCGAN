@@ -33,14 +33,14 @@
 
   - After 5th epoch
 
-    ![5](/Users/apple/Desktop/paper_code/DCGAN/img/DCGAN_train_05_3073.png)
+    ![5](./img/DCGAN_train_05_3073.png)
 
   - After 10th epoch
 
-    ![10](/Users/apple/Desktop/paper_code/DCGAN/img/DCGAN_train_10_3148.png)
+    ![10](./img/DCGAN_train_10_3148.png)
 
   - After 20th epoch
 
-    ![20](/Users/apple/Desktop/paper_code/DCGAN/img/DCGAN_train_19_3163.png)
+    ![20](./img/DCGAN_train_19_3163.png)
 
 - The code borrowed from [here](https://github.com/taki0112/DCGAN-Tensorflow)
