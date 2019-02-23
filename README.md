@@ -21,9 +21,9 @@
 
   ![graph](./img/graph.png)
 
-  ![d_loss](/Users/apple/Desktop/paper_code/DCGAN/img/d_loss.JPG)
+  ![d_loss](./img/d_loss.JPG)
 
-  ![g_loss](/Users/apple/Desktop/paper_code/DCGAN/img/g_loss.JPG)
+  ![g_loss](./img/g_loss.JPG)
 
 - ~~To ensure that `d_loss` do not go to zero during the training, I run generator 5 times every discriminator updating. Although the `d_loss` will not be close to 0, the quality of the generated images is very bad.~~
 
